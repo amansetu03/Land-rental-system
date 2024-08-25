@@ -1,0 +1,26 @@
+----- rent_return Invoice -----
+Customer_name: Shivam gupta
+Kitta Number: 102
+City:  Kathmandu
+Direction:  East
+anna:  5
+Price per month: 60000
+Duration of Rent: 5 months
+Return month: 7 months
+Bill Amount: NPR 300000
+Delay Fine: NPR 12000.0
+Paybal Amount: NPR 312000.0
+-----------------------------
+----- rent_return Invoice -----
+Customer_name: Shivam gupta
+Kitta Number: 104
+City:  Bhaktapur
+Direction:  West
+anna:  8
+Price per month: 75000
+Duration of Rent: 3 months
+Return month: 4 months
+Bill Amount: NPR 225000
+Delay Fine: NPR 7500.0
+Paybal Amount: NPR 232500.0
+-----------------------------

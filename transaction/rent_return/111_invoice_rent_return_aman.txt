@@ -1,0 +1,13 @@
+----- rent_return Invoice -----
+Customer_name: aman
+Kitta Number: 111
+City:  Pokhara
+Direction:  North
+anna:  12
+Price per month: 120000
+Duration of Rent: 6 months
+Return month: 4 months
+Bill Amount: NPR 720000
+Delay Fine: NPR 0
+Paybal Amount: NPR 720000
+-----------------------------

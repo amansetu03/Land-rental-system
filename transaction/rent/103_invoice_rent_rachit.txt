@@ -1,0 +1,10 @@
+----- rent Invoice -----
+Customer_name: rachit 
+Kitta Number: 103
+City:  Lalitpur
+Direction:  South
+anna:  10
+Price per month: 100000
+Duration of Rent: 6 months
+Amount: NPR 600000
+-----------------------------

@@ -1,0 +1,13 @@
+----- rent_return Invoice -----
+Customer_name: rachit
+Kitta Number: 103
+City:  Lalitpur
+Direction:  South
+anna:  10
+Price per month: 100000
+Duration of Rent: 6 months
+Return month: 8 months
+Bill Amount: NPR 600000
+Delay Fine: NPR 20000.0
+Paybal Amount: NPR 620000.0
+-----------------------------

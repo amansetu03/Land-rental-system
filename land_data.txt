@@ -1,0 +1,25 @@
+101, Kathmandu, North, 4,50000,Not Available
+102, Kathmandu, East, 5,60000,Available
+103, Lalitpur, South, 10,100000,Available
+104, Bhaktapur, West, 8,75000,Available
+105, Kathmandu, North, 6,70000,Not Available
+106, Lalitpur, East, 3,45000,Available
+107, Bhaktapur, South, 7,80000,Available
+108, Kathmandu, West, 9,90000,Available
+109, Lalitpur, North, 4,50000,Available
+110, Kathmandu, South, 5,60000,Not Available
+111, Pokhara, North, 12,120000,Available
+112, Pokhara, East, 8,90000,Not Available
+113, Pokhara, South, 6,70000,Available
+114, Pokhara, West, 10,100000,Available
+115, Bharatpur, East, 5,55000,Available
+116, Bharatpur, South, 7,80000,Available
+117, Bharatpur, West, 9,95000,Available
+118, Birgunj, North, 4,45000,Available
+119, Birgunj, South, 6,70000,Available
+120, Birgunj, West, 3,40000,Not Available
+121, Dhangadi, South, 12,120000,Available
+122, Hetauda, East, 8,90000,Not Available
+123, Kalaiya, North, 6,70000,Available
+124, Maitighar, West, 23,100000,Available
+125, Ram Nagar, East, 5,55000,Available
